@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div img {
+    width: 100vw;
+    height: 80vh;
+}
+
+span h1 {
+    /* background-color: rgb(23, 123, 11); */
+    height: 10vh;
+    color: rgba(23, 123, 11);
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+  
